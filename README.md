@@ -36,8 +36,16 @@ research/
 │   └── README.md  # MAIA CA23141, AUTOMATA GA 101158046, AviArch GA 101125532, ECCCH digital twin standards
 ├── 10_commercial_market_economics/
 │   └── README.md  # US CRM $1.85B & 11,000 workforce shortage, French INRAP €190M/yr, Space Archaeology
-└── 11_case_study_empirical_benchmarks/
-    └── README.md  # Sinauli royal burials & Wonderwerk Cave Stratum 4aLH empirical tests, 7-metric protocol
+├── 11_case_study_empirical_benchmarks/
+│   └── README.md  # Sinauli royal burials & Wonderwerk Cave Stratum 4aLH empirical tests, 7-metric protocol
+└── 12_visual_sorting_and_typology_studio/
+    ├── README.md  # Master Architecture & Navigation Hub for Visual Triage
+    ├── 01_domain_and_requirements/           # Problem statement, personas, FRs, NFRs
+    ├── 02_computer_vision_architecture/      # Background isolation, DINOv2 embeddings, ONNX CPU
+    ├── 03_clustering_and_active_learning/    # HDBSCAN density clustering, Must-Not-Link, auto-routing
+    ├── 04_ui_ux_interaction_design/          # 2D light-table, keyboard-first tray review, publication plates
+    ├── 05_archaeological_integration_and_moat/# Stratigraphic cross-checking, CIDOC CRM JSON-LD, sovereignty
+    └── 06_implementation_and_testing_plan/  # 4-phase milestones, C++ engine API, benchmark protocol
 ```
 
 ---
@@ -55,3 +63,4 @@ research/
 * [Module 09: European Research Ecosystem](file:///d:/Prorgram/Project/ArcheoPhd/research/09_european_research_ecosystem/README.md)
 * [Module 10: Commercial Market Economics](file:///d:/Prorgram/Project/ArcheoPhd/research/10_commercial_market_economics/README.md)
 * [Module 11: Case Study Empirical Benchmarks](file:///d:/Prorgram/Project/ArcheoPhd/research/11_case_study_empirical_benchmarks/README.md)
+* [Module 12: Visual Sorting & Typology Studio](file:///d:/Prorgram/Project/ArcheoPhd/research/12_visual_sorting_and_typology_studio/README.md)
